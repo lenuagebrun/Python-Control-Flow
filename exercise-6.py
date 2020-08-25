@@ -47,4 +47,4 @@ elif x in 'Dec' and y <= 20:
 elif x in 'Dec' and y > 20:
   print(f'{date} is in Winter')
 else:
-  print('you ended up here by probably giving the date and month at the same time. try again and read he questions precisely')
+  print('you ended up here by probably giving the date and month at the same time. try again and read the questions precisely')
